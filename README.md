@@ -1,3 +1,5 @@
+![Welcome Banner](https://github.com/junsutaro/junsutaro/blob/main/banner1.png)
+
 # 👋 Hi there, I'm JUNSUTARO!
 
 ### 💡 About Me
