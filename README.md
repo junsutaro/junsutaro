@@ -1,4 +1,4 @@
-![Welcome Banner](https://github.com/junsutaro/junsutaro/blob/main/banner1.png)
+![Welcome Banner](https://github.com/junsutaro/junsutaro/blob/main/Banner.png)
 
 # 👋 Hi there, I'm JUNSUTARO!
 
