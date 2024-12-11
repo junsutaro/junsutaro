@@ -17,9 +17,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsutaro&layout=compact&theme=radical)
 
 ### 🚀 Featured Projects
-- [Project A](https://github.com/junsutaro/project-a) - A web app that does amazing things.
-- [Project B](https://github.com/junsutaro/project-b) - A mobile app that changes the game.
-
+- [taro-camp](https://github.com/junsutaro/taro-camp)
+- [QuizDot](https://github.com/Team-mnot/QuizDot)
+- [KOALAMATE](https://github.com/D212-KOALA/KOALAMATE)
+- [FasTravel](https://github.com/fast-boys/frontend)
+  
 ---
 
 ### 🎯 Let's Connect
