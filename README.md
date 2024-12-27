@@ -3,9 +3,9 @@
 # 👋 Hi there, I'm JUNSUTARO!
 
 ### 💡 About Me
-- 🌱 I’m currently learning **React Native**, **TypeScript**, and **Backend Development**.
+- 🌱 I’m currently learning **React**, **TypeScript**.
 - 💻 I’m passionate about creating innovative software solutions.
-- 🎯 My goal is to become a full-stack developer who bridges the gap between user experience and technology.
+- 🎯 My goal is to become a front-end developer who creates seamless, user-centered experiences while bridging the gap between design and technology.
 
 ### ⚙️ Tech Stack
 
